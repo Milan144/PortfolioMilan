@@ -11,7 +11,7 @@ function About() {
         
         <div class='about-text'>
           <h1>About Me</h1>
-          <h5>Fullstack <span>Developer</span></h5>
+          <h5>Milan <span>Hommet</span></h5>
           <p>I am 20yo Fullstack Developer student based in France and actually in Web Development Bachelor at MyDigitalSchool. </p>
           <p>HTML, CSS, Javascript, Python, PHP, Bootstrap, MySQL, Symfony, Ionic, Angular, React. </p>
           <a target='_blank' href={cvEN}>

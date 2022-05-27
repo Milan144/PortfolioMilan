@@ -2,10 +2,8 @@ import React from 'react'
 
 function Work() {
   return (
-    <div id='work'>
-        <section id='work'>
+    <div className='work'>
         
-        </section>
     </div>
   )
 }
